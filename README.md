@@ -11,6 +11,8 @@
 
 #### Rodar o projeto.
 - yarn run dev
+#### ou
+- npm run dev
 
 ## Instalar Material UI.
 - site - https://mui.com/pt/material-ui/getting-started/installation/
