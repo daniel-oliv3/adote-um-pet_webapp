@@ -12,4 +12,11 @@
 ## Rodar o projeto.
 - yarn run dev
 
+## Instalar Material UI
+- site - https://mui.com/pt/material-ui/getting-started/installation/
+- Comando  
+- npm i @mui/material @emotion/react @emotion/styled
 
+
+##  Instalar Axios
+- npm i axios
